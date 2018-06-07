@@ -1,0 +1,17 @@
+.filecontainer{
+    max-width: 500px;
+}
+
+.page-header{
+    text-align: center;
+    /*font-family: 'Marko One', serif;*/
+}
+
+.list-group_button{
+    float: right;
+    display: block;
+    padding: 0px 5px 0px;
+    margin: 0px 5px 0px;
+    vertical-align: center ;
+
+}

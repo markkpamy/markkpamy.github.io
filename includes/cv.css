@@ -1,0 +1,40 @@
+/*conteneur sur la page cv*/
+.cv-container {
+    padding: 30px 30px 0;
+    max-width: 600px;
+    min-width: 500px;
+    border-style: solid;
+    border-radius: 10px;
+    background-color: #E0F2BE;
+    text-align: justify;
+}
+
+.cv-container2 {
+    padding: 30px 30px 0;
+    max-width: 500px;
+    min-width: 350px;
+    border-style: solid;
+    border-radius: 10px;
+    background-color: #E0F2BE;
+    text-align: justify;
+    margin: 0;
+    width: 100%;
+}
+
+
+.page-header{
+    text-align: center;
+    font-family: 'Marko One', serif;
+}
+
+.profileimage{
+    /*max-width: 60px;
+    max-height: 60px;*/
+    display: block;
+    margin:auto;
+}
+
+.intern-container{
+   padding-left: 30px;
+
+}
